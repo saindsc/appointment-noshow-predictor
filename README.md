@@ -9,7 +9,7 @@ AI-powered system to predict appointment no-shows with 84% accuracy.
 - Real-time predictions
 
 ## Demo
-Open `index.html` in browser.
+Open `simple-working-html.html` in browser.
 
 ## Tech Stack
 - React.js, Machine Learning, Weather API
